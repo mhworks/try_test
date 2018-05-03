@@ -3,3 +3,4 @@ Gitの練習をしております。
 ほらよ
 ・git add
 ・git status
+・git rm
