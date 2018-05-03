@@ -4,3 +4,4 @@ Gitの練習をしております。
 ・git add
 ・git status
 ・git rm
+・git status
