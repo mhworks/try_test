@@ -1,3 +1,5 @@
 Gitの練習をしております。
 そうでもないよ
 ほらよ
+・git add
+・git status
